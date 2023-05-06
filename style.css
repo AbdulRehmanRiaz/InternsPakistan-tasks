@@ -1,0 +1,131 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  .bg1{
+    background-color: lightgray;
+    width: 100%;
+    height: 60vh;
+    margin: 0px;
+  }
+  .logo{
+    margin: 20px 0px 15px 0px; 
+    padding: 0px;
+    height: 50px;
+    width: 50px;
+  }
+
+  h2{
+    padding-left: 10px;
+  }
+  .para1, .para2{
+    padding-left: 10px;
+  }
+
+  .container1{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .info{
+    margin-top: 30px;
+  }
+
+  h3{
+    margin-left: 30px;
+  }
+  .img1{
+   width: 30px;
+   height: 40vh;
+  }
+  .covid{
+    width: 200px;
+    height: 300px;
+  }
+  .virus{
+    width: 150px;
+    height: 100px;
+    margin-left: 30px;
+    margin-right: 0px;
+  }
+  .symptoms{
+    width: 150px;
+    height: 100px;
+    margin-left: 30px;
+  }
+  .prevent{
+    width: 150px;
+    height: 100px;
+    margin-left: 30px;
+  }
+  /* page 2 */
+  .container3{
+    width: 100%;
+    height: 100%;
+  }
+  .banner{
+    background-color: lightgrey;
+    width: 100%;
+    height:50px;
+  }
+  .logo2{
+    height: 50px;
+    width: 50px;
+    position: relative;
+    top: -30px;
+    margin-left: 20px;
+  }
+  .h2{
+    text-align: center;
+  }
+  .fever{
+   text-align: center;
+  }
+  .button{
+    margin: 0px 40px 0px 40px;
+  }
+  /* page 3*/
+  .container4{
+    width: 100%;
+    height: 100%;
+  }
+  .para3{
+    padding-left: 30px;
+    padding-right: 50px;
+  }
+  .para4{
+    padding-left: 30px;
+    padding-right: 50px;
+  }
+  h4{
+    padding-left: 30px;
+    padding-right: 50px;
+  }
+  .para5{
+    padding-left: 30px;
+    padding-right: 50px;
+  }
+  /* page 4*/
+  .container5{
+    width: 100%;
+    height: 100%;
+  }
+  h3{
+    padding-left: 30px;
+    padding-right: 50px;
+  }
+  .para6{
+    margin-left: 08px;
+    padding-left: 30px;
+    padding-right: 50px;
+  }
+  .para7{
+    margin-left: 08px;
+    padding-left: 30px;
+    margin-right: 20px;
+    padding-right: 50px;
+  }
